@@ -13,5 +13,7 @@ public class MainActivity extends AppCompatActivity {
 
         String abc="1234";
         String hello = "Hello World";
+
+        String needs = "my Hello World";
     }
 }
